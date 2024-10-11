@@ -3,7 +3,7 @@ entries:
   cert-manager:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-11T08:48:30.82954-07:00"
+    created: "2024-10-11T10:06:09.185188-07:00"
     description: A Helm chart for Kubernetes
     digest: 925cd528937b210c174dcc8ef29387f5217070b5e0b836a7ef2144927a8f4b2e
     name: cert-manager
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://eva-vashkevich.github.io/test/cert-manager-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-11T08:48:30.829093-07:00"
+generated: "2024-10-11T10:06:09.184707-07:00"
